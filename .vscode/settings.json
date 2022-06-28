@@ -1,0 +1,5 @@
+{
+  "python.formatting.provider": "black",
+  "python.defaultInterpreterPath": "bin/python3.10",
+  "python.linting.pylintPath": "bin/pylint"
+}
